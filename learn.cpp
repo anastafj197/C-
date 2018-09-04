@@ -10,7 +10,7 @@ int main() {
   string text2 = " of stuff";
   string things = text1 = text2;
   
-  # Insertion operator (<<)
+  # Insertion operator (<<) sending info - printing 
   cout << value << endl;
   cout << things << endl; 
  
@@ -19,7 +19,7 @@ int main() {
  
   string input; 
   
-  # Extraction operator (>>) user input 
+  # Extraction operator (>>) grabbing info - user input 
   cin >> input; 
   
   cout << input << endl; 
